@@ -40,7 +40,7 @@ Feel free to customize and use it in your projects.
 
 ## Author
 
-[Surita Sahu](---)
+[Surita Sahu](https://github.com/suritasahu)
 
 ## Contribution
 
