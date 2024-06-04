@@ -48,7 +48,7 @@ Contributions are welcome! Please check our [Contribution Guidelines](CONTRIBUTI
 
 ## Support
 
-If you encounter any issues or have suggestions, [open an issue](--).
+If you encounter any issues or have suggestions, [open an issue](https://github.com/suritasahu/Weather-Sphere---Interactive-Weather-App/issues).
 
 ## About
 
