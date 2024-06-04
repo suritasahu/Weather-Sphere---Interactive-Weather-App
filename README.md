@@ -14,7 +14,7 @@ Welcome to WeatherSphere, a cutting-edge and user-friendly weather prediction ap
 
 ## Experience WeatherSphere
 
-🌦️ **Explore the WeatherSphere Demo: [Click Here](---)** 🌈
+🌦️ **Explore the WeatherSphere Demo: [Click Here](https://suritasahu.github.io/Weather-Sphere---Interactive-Weather-App/)** 🌈
 
 ## Screenshots
 
@@ -24,7 +24,7 @@ Welcome to WeatherSphere, a cutting-edge and user-friendly weather prediction ap
 
 ## Getting Started
 
-1. Clone the repository: `git clone -`
+1. Clone the repository: `git clone https://github.com/suritasahu/Weather-Sphere---Interactive-Weather-App`
 2. Open `index.html` in your preferred browser to launch the app.
 
 ## Usage
