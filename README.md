@@ -18,9 +18,9 @@ Welcome to WeatherSphere, a cutting-edge and user-friendly weather prediction ap
 
 ## Screenshots
 
-![WeatherSphere Screenshot 1](images/)
-![WeatherSphere Screenshot 2](images/)
-![WeatherSphere Screenshot 3](images/)
+![WeatherSphere Screenshot 1](images/WeatherSphere1.png)
+![WeatherSphere Screenshot 2](images/WeatherSphere2.png)
+![WeatherSphere Screenshot 3](images/WeatherSphere3.png)
 
 ## Getting Started
 
